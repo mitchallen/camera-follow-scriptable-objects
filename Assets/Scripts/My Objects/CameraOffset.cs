@@ -6,4 +6,3 @@ using UnityEngine;
 public class CameraOffset : SoPosition {
 
 }
-
