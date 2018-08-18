@@ -1,8 +1,8 @@
-# Camera Follow Scriptable Objects
+# Camera Follow with Scriptable Objects (Unity Tutorial)
 
 This repo contains the Unity3D project from my tutorial:
 
-* [Camera Follow Scriptable Object (Unity Tutorial)](https://scriptable.com/blog/camera-follow-scriptable-objects)
+* [Camera Follow with Scriptable Object (Unity Tutorial)](https://scriptable.com/blog/camera-follow-scriptable-objects)
 
 ## Tutorial Description
 
