@@ -11,5 +11,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 857cc29a924484946924d3196e45455b, type: 3}
   m_Name: PlayerPosition
   m_EditorClassIdentifier: 
-  position: {x: 0, y: 0, z: 0}
-  rotation: {x: 0, y: 0, z: 0, w: 0}
+  position: {x: -5.6700125, y: 1.58, z: 2.5}
+  rotation: {x: 0, y: -0.7071068, z: -0, w: 0.7071068}

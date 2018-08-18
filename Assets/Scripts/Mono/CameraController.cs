@@ -8,12 +8,12 @@ public class CameraController : MonoBehaviour {
 
     public PlayerPosition playerPosition;
 
-    public CameraStartPosition cameraStartPosition;
+    public CameraOffset cameraOffset;
 
     // Use this for initialization
     void Start () {
 
-        offset = cameraStartPosition.position;
+        offset = cameraOffset.position;
     }
 
     // LateUpdate is called after Update each frame

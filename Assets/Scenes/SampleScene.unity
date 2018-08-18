@@ -238,7 +238,7 @@ Camera:
   m_TargetDisplay: 0
   m_TargetEye: 3
   m_HDR: 1
-  m_AllowMSAA: 1
+  m_AllowMSAA: 0
   m_AllowDynamicResolution: 0
   m_ForceIntoRT: 0
   m_OcclusionCulling: 1
@@ -269,8 +269,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   playerPosition: {fileID: 11400000, guid: 3947069aa98e8487b8808e8b00353f63, type: 2}
-  cameraStartPosition: {fileID: 11400000, guid: 8555c4719adf1452993b2173240ed88f,
-    type: 2}
+  cameraOffset: {fileID: 11400000, guid: 04793d461ece74a0497b3cc29a31a65e, type: 2}
 --- !u!1001 &1186698588
 Prefab:
   m_ObjectHideFlags: 0

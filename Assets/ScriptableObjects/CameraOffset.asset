@@ -8,8 +8,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 51e0aa1666eca4b0284eb8d188b2637d, type: 3}
-  m_Name: CameraStart
+  m_Script: {fileID: 11500000, guid: a47850b7620e3421ea8fa2b91b0420b6, type: 3}
+  m_Name: CameraOffset
   m_EditorClassIdentifier: 
   position: {x: 0, y: 2, z: -7}
   rotation: {x: 0, y: 0, z: 0, w: 0}
